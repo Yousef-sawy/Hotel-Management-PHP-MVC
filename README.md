@@ -1,6 +1,6 @@
 # Hotel-Management-PHP-MVC
 
-This is a Hotel-Management system usnig php+mysql using the mvc model 
+This is a Hotel-Management system usnig php+mysql using the mvc model and to make the admin page i used Admin LTLE
 
 
 # Setup
@@ -11,6 +11,6 @@ This is a Hotel-Management system usnig php+mysql using the mvc model
 
 3.open the login controller page on google 
 
-4.use any of the users from the database 
+4.use any of the users from the database to login in
 
 1 is guest and 2 is admin 
